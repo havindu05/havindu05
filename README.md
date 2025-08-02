@@ -1,120 +1,104 @@
-<!-- 🧬 CYBERPUNK HEADER -->
+<!-- HEADER GIF -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/havindu05/havindu05/main/assets/cyberpunk-banner.gif" width="100%" alt="Cyberpunk Banner">
+  <img src="https://raw.githubusercontent.com/havindu05/havindu05/main/assets/cyberpunk-banner.gif" alt="Cyberpunk Banner" width="100%" />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&pause=1000&color=FF00FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Havindu+Binduhewa; alt="Typing SVG" />
-</h1>
+# 👋 Hey, I'm Havindu Binduhewa
 
 <p align="center">
-  <strong>🚀 Transforming ideas into intelligent, scalable software solutions 🚀</strong>
-</p>
-
-<p align="center">
-  <a href="mailto:binduhewahavindu2005@gmail.com">📧 Gmail</a> • 
-  <a href="https://linkedin.com/in/havindu-binduhewa-684a131ab">💼 LinkedIn</a> • 
-  <a href="https://github.com/havindu05">🐙 GitHub</a> • 
-  <a href="https://wa.me/94710087168">💬 WhatsApp</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&pause=800&color=00FF7F&width=500&lines=Software+Engineering+Student;AI+Enthusiast;Clean+Code+Advocate" alt="Typing animation" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-- 🎓 Software Engineering student at **iCET (Institute of Computer Engineering Technology)**
-- 🌍 Based in **Ambalangoda, Sri Lanka**
-- 🔬 Currently researching **AI-driven SaaS tools**
-- 💡 Passionate about **clean architecture**, **LLMs**, and **cross-platform systems**
-- 🎯 Dedicated to **developer tooling**, **AI utilities**, and **real-world impact**
+> _"Transforming ideas into intelligent, scalable software solutions with passion and precision."_  
 
----
-
-## ⚙️ Tech Stack
-
-### 💻 Languages  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
-
-### 🧰 Frameworks & Tools  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?style=flat&logo=dotnet&logoColor=white)
-
-### 🗄️ Databases & DevOps  
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=flat&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black)
+- 🎓 Software Engineering Student at [iCET](https://www.icet.ac.lk)  
+- 🌍 Based in Ambalangoda, Sri Lanka  
+- 🤖 Researching AI-powered SaaS tools, GPTs, and Large Language Models  
+- 🛠️ Passionate about clean architecture, scalable systems & developer tooling  
+- 📫 Reach me: [Email](mailto:binduhewahavindu2005@gmail.com) | [LinkedIn](https://linkedin.com/in/havindu-binduhewa-684a131ab)
 
 ---
 
-## 🎯 Skills & Focus Areas
+## 🛠️ Tech Stack & Skills
 
-| 💡 Domain                | 🔍 Key Focus                                                  |
-|--------------------------|--------------------------------------------------------------|
-| **Full-Stack Development** | Web & mobile apps with React, Spring Boot, Flutter           |
-| **AI & Machine Learning**  | GPT/LLMs, Python automation, neural networks, tools          |
-| **DevOps & CI/CD**         | Docker, Firebase, GitHub Actions, scalable deployments       |
-| **UI/UX Design**           | Clean UI, user-centric workflows, Figma & interactive design |
-| **Software Engineering**   | Clean code, SOLID, OOP, data structures, design patterns     |
-
----
-
-## 📊 GitHub Stats
+| Skill       | Proficiency  |
+|-------------|--------------|
+| Java        | ![80%](https://progress-bar.dev/80/?title=Java)          |
+| Python      | ![75%](https://progress-bar.dev/75/?title=Python)        |
+| Spring Boot | ![70%](https://progress-bar.dev/70/?title=SpringBoot)    |
+| React       | ![65%](https://progress-bar.dev/65/?title=React)         |
+| Flutter     | ![60%](https://progress-bar.dev/60/?title=Flutter)       |
+| Docker      | ![60%](https://progress-bar.dev/60/?title=Docker)        |
+| MySQL       | ![70%](https://progress-bar.dev/70/?title=MySQL)         |
+| Firebase    | ![50%](https://progress-bar.dev/50/?title=Firebase)      |
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=havindu05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=havindu05&layout=compact&theme=tokyonight&hide_border=true" height="180px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=havindu05&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=java,python,spring,react,flutter,docker,mysql,firebase,git,postman,vscode" alt="Skills icons" />
 </p>
 
 ---
 
-## 🌟 Featured Projects
+## 🔭 Featured Projects
 
-| Project | Description |
-|--------|-------------|
-| 🧬 **Student Management System** | Java Swing system to manage student records and grades |
-| 🚀 **AI Portfolio Generator**   | Python app using OpenAI APIs to generate portfolios    |
-| 📱 **Flutter Notes App**        | Offline note-taking mobile app with Firebase sync      |
-| 🌐 **DevLinker**                | React-based bookmarking app for developers             |
+| Project                    | Description                                      | Tech Stack             |
+|----------------------------|-------------------------------------------------|------------------------|
+| 🎓 Student Management       | Java Swing desktop app for managing students    | Java, Swing, MySQL     |
+| 🔮 AI Portfolio Generator   | Generate dev portfolios with OpenAI API         | Python, Flask, OpenAI  |
+| 📝 Flutter Notes App        | Offline-first notes synced with Firebase        | Flutter, Firebase      |
+| 🌐 DevLinker               | Bookmark manager with tags & notes               | React, MongoDB, Express|
 
 ---
 
-## 🎯 2025 Roadmap
+## 📊 GitHub Stats & Activity
 
-- ✅ Launch an AI productivity suite for devs  
-- 📚 Open-source contributions to LLM projects  
-- 💬 Mentor juniors via blog/YouTube  
-- 🎓 Graduate with distinction from iCET  
-- 🧠 Join an AI-first engineering team  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=havindu05&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=havindu05&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=havindu05&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=havindu05&theme=radical&row=1&column=6&margin-w=10" alt="GitHub Trophies" />
+</p>
 
 ---
 
 ## 📬 Connect With Me
 
 <p align="center">
-  <a href="mailto:binduhewahavindu2005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:binduhewahavindu2005@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF5733" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com/in/havindu-binduhewa-684a131ab">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/havindu-binduhewa-684a131ab" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/havindu05">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/havindu05" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://wa.me/94710087168">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://wa.me/94710087168" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
 
+---
+
+## 📋 Quick Links
+
+| Section            | Link                          |
+|--------------------|-------------------------------|
+| Projects           | [Here](#-featured-projects)   |
+| GitHub Stats       | [Here](#-github-stats--activity) |
+| Contact            | [Here](#-connect-with-me)     |
+
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=120&section=footer&text=Thanks%20for%20visiting!%20🚀&fontColor=ffffff&fontSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:FF0080&height=100&section=footer&text=Thanks%20for%20Stopping%20By!&fontSize=24&fontColor=FFFFFF" alt="Footer" />
 </p>
