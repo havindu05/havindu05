@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&pause=1000&color=FF00FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Havindu+Binduhewa;Full-Stack+Developer+%7C+AI+Enthusiast;Building+Intelligent+Software+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&pause=1000&color=FF00FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Havindu+Binduhewa; alt="Typing SVG" />
 </h1>
 
 <p align="center">
