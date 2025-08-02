@@ -1,6 +1,6 @@
 <!-- 🧬 CYBERPUNK HEADER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/havindu05/havindu05/main/assets/cyberpunk-banner.gif" width="100%" alt="Cyberpunk Banner" />
+  <img src="https://raw.githubusercontent.com/havindu05/havindu05/main/assets/cyberpunk-banner.gif" width="100%" alt="Cyberpunk Banner">
 </p>
 
 <h1 align="center">
