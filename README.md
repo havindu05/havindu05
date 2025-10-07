@@ -1,15 +1,19 @@
 <!-- HEADER GIF -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/havindu05/havindu05/main/assets/cyberpunk-banner.gif" alt="Cyberpunk Banner" width="100%" />
+  <img src="https://i.ibb.co/8dN2N7k/cyberpunk-code-banner.gif" alt="Cyberpunk Banner" width="100%" />
 </p>
 
-# 👋 Hey, I'm Havindu Binduhewa
-
+<!-- TYPING INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&pause=800&color=00FF7F&width=500&lines=Software+Engineering+Student;AI+Enthusiast;Clean+Code+Advocate" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=👋+Hey%2C+I'm+Havindu+Binduhewa;💻+Software+Developer+|+Tech+Enthusiast;☕+Java+|+Spring+Boot+|+React+|+Flutter" alt="Typing SVG" />
 </p>
 
----
+<!-- SHORT ABOUT SECTION -->
+<p align="center">
+  🚀 Passionate about building full-stack applications and crafting clean, efficient code.<br>
+  I love working with <b>Java</b>, <b>Spring Boot</b>, and exploring <b>modern front-end</b> technologies.
+</p>
+
 
 ## 🚀 About Me
 
@@ -23,21 +27,31 @@
 
 ---
 
+<!-- 💻 TECH STACK & SKILLS SECTION -->
+
 ## 🛠️ Tech Stack & Skills
 
-| Skill       | Proficiency  |
-|-------------|--------------|
-| Java        | ![80%](https://progress-bar.dev/80/?title=Java)          |
-| Python      | ![75%](https://progress-bar.dev/75/?title=Python)        |
-| Spring Boot | ![70%](https://progress-bar.dev/70/?title=SpringBoot)    |
-| React       | ![65%](https://progress-bar.dev/65/?title=React)         |
-| Flutter     | ![60%](https://progress-bar.dev/60/?title=Flutter)       |
-| Docker      | ![60%](https://progress-bar.dev/60/?title=Docker)        |
-| MySQL       | ![70%](https://progress-bar.dev/70/?title=MySQL)         |
-| Firebase    | ![50%](https://progress-bar.dev/50/?title=Firebase)      |
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=450&lines=💻+My+Tech+Stack+and+Skills" alt="Typing SVG" />
+</p>
+
+
+| Skill | Proficiency |
+|-------|--------------|
+| ☕ **Java** | ![Java](https://img.shields.io/badge/Java-80%25-orange?style=for-the-badge) |
+| 🐍 **Python** | ![Python](https://img.shields.io/badge/Python-75%25-blue?style=for-the-badge) |
+| 🌱 **Spring Boot** | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-70%25-brightgreen?style=for-the-badge) |
+| ⚛️ **React** | ![React](https://img.shields.io/badge/React-65%25-61DAFB?style=for-the-badge) |
+| 💙 **Flutter** | ![Flutter](https://img.shields.io/badge/Flutter-60%25-02569B?style=for-the-badge) |
+| 🐳 **Docker** | ![Docker](https://img.shields.io/badge/Docker-60%25-2496ED?style=for-the-badge) |
+| 🗄️ **MySQL** | ![MySQL](https://img.shields.io/badge/MySQL-70%25-4479A1?style=for-the-badge) |
+| 🔥 **Firebase** | ![Firebase](https://img.shields.io/badge/Firebase-50%25-FFCA28?style=for-the-badge) |
+
+
+---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,spring,react,flutter,docker,mysql,firebase,git,postman,vscode" alt="Skills icons" />
+  <img src="https://skillicons.dev/icons?i=java,python,spring,react,flutter,docker,mysql,firebase,git,postman,vscode,kubernetes&perline=6" alt="Skills icons" />
 </p>
 
 ---
@@ -88,14 +102,13 @@
 </p>
 
 ---
-
 ## 📋 Quick Links
 
-| Section            | Link                          |
-|--------------------|-------------------------------|
-| Projects           | [Here](#-featured-projects)   |
-| GitHub Stats       | [Here](#-github-stats--activity) |
-| Contact            | [Here](#-connect-with-me)     |
+| Section | Link |
+|----------|------|
+| 🚀 Projects | [Here](#featured-projects) |
+| 📊 GitHub Stats | [Here](#github-stats--activity) |
+| 🤝 Contact | [Here](#connect-with-me) |
 
 ---
 
